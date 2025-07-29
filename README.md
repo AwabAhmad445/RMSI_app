@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 [![ShinyApp](https://img.shields.io/badge/ShinyApp-Launch-blue)](https://vandycardiac.shinyapps.io/RMSI_app)
 
 ## RMSI Calculator for Myocardial Stress
